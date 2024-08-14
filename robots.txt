@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enqualic.github.io/sitemap.html.gz
+Sitemap: https://enqualic.github.io/app/sitemap.html.gz
+Sitemap: https://enqualic.github.io/assets/sitemap.html.gz
+Sitemap: https://enqualic.github.io/css/sitemap.html.gz
+Sitemap: https://enqualic.github.io/includes/sitemap.html.gz
+Sitemap: https://enqualic.github.io/item/sitemap.html.gz
+Sitemap: https://enqualic.github.io/src/sitemap.html.gz
